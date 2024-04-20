@@ -1,0 +1,6 @@
+mariadb
+beautifulsoup4
+requests
+telebot
+TelegramBotApi
+yt_dlp
