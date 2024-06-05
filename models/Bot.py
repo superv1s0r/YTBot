@@ -15,7 +15,7 @@ class Bot:
         self.__path = path
         self.__Handler = telebot.TeleBot(self.botID, parse_mode=None)
         self.__SQL_db = SQL_db
-        self.__channel_id = -1001631740610
+        self.__channel_id = <INPUT_YOUR_CHANNEL_ID>
   
         self.createTables()
 
